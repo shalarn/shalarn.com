@@ -1,0 +1,66 @@
+body {
+  padding: 5em;
+	#background-image:url('/images/bgnoise.gif');
+}
+
+h1 {
+	font-family: futura;
+	font-size: 3.6em;
+}
+
+h2 {
+	font-family: futura;
+	font-size: 2.6em;
+}
+
+h3 {
+	font-family: futura;
+	font-size: 1.1em;
+	letter-spacing: .1em;
+	padding-bottom: 0em;
+}
+
+p {
+	font-family: adobe-garamond-pro, georgia, serif;
+	font-size: 18px;
+	line-height: 1.7em;
+}
+
+#resume_facts p {
+	margin: 0.0em;
+}
+
+#archives li {
+	'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
+	font-size: .9em;
+	font-weight: 700;
+}
+
+h1, h2, h3 {
+	padding-left: 0em;
+	padding-right: 0em;
+	padding-top: 0.2em;
+	line-height: 1em;
+	text-transform: uppercase;
+}
+
+a {
+	color: #ae2622;
+	text-decoration: none;
+}
+
+#chris_facts p, h1, h2, h3 {
+	#text-align: right;
+}
+
+.floatleft {
+	float: left; margin: 0px 5px 5px 0px;
+}
+
+blockquote {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 4em;
+  padding-left: 1.4em;
+  border-left: .3em solid #ddd;
+}
